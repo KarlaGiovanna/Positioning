@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+
+.fucsia { 
+	background-color: #EE3E64;
+}
+
+.celeste {
+	background-color: #44ACCF;
+}
+
+.green {
+	background-color: #B7D84B;
+}
